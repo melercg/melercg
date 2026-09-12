@@ -2,73 +2,12 @@
   "username": "melercg",
   "widgets": [
     {
-      "instanceId": "widget_1789254675953",
-      "widgetId": "codeweb-retro-grid",
-      "name": "Codeweb-retro-grid Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 260
-      },
-      "config": {
-        "selectedTechs": [
-          "py",
-          "bash",
-          "c",
-          "cpp",
-          "postgres",
-          "fastapi",
-          "django",
-          "sqlite",
-          "vercel",
-          "linux",
-          "aws",
-          "notion",
-          "mysql",
-          "Pandas",
-          "Numpy",
-          "Scikit-Learn",
-          "Matplotlib",
-          "Seaborn"
-        ],
-        "accentColor": "#00ff88",
-        "secondaryColor": "#55ffff",
-        "showTitle": false,
-        "technologies": [
-          "py",
-          "bash",
-          "c",
-          "cpp",
-          "postgres",
-          "fastapi",
-          "django",
-          "sqlite",
-          "vercel",
-          "linux",
-          "aws",
-          "notion",
-          "mysql",
-          "Pandas",
-          "Numpy",
-          "Scikit-Learn",
-          "Matplotlib",
-          "Seaborn"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1
-    },
-    {
       "instanceId": "widget_1789254684706",
       "widgetId": "codeweb-social-badge",
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 276
+        "y": 140
       },
       "size": {
         "width": 800,
@@ -84,21 +23,60 @@
         "label_linkedin": "@melisa.ercg",
         "label_portfolio": "melercg.github.io",
         "label_gmail": "erocagimelisa@gmail.com",
-        "accentColor": "#ff00ff"
+        "accentColor": "#ff00ff",
+        "backgroundColor": "transparent",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
       "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1789256929307",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "bash",
+          "c",
+          "cpp",
+          "postgres",
+          "fastapi",
+          "django",
+          "sqlite",
+          "flask",
+          "mysql",
+          "git",
+          "aws",
+          "vercel",
+          "linux",
+          "notion"
+        ],
+        "borderColor": "transparent",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "transparent",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
-    "borderColor": "#252525",
+    "borderColor": "#212830",
     "fontFamily": "'Inter Tight', sans-serif",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 0,
     "themeMode": "dark",
     "templateStyle": "blank"
   },
