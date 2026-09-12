@@ -27,7 +27,12 @@
           "linux",
           "aws",
           "notion",
-          "mysql"
+          "mysql",
+          "Pandas",
+          "Numpy",
+          "Scikit-Learn",
+          "Matplotlib",
+          "Seaborn"
         ],
         "accentColor": "#00ff88",
         "secondaryColor": "#55ffff",
@@ -45,7 +50,12 @@
           "linux",
           "aws",
           "notion",
-          "mysql"
+          "mysql",
+          "Pandas",
+          "Numpy",
+          "Scikit-Learn",
+          "Matplotlib",
+          "Seaborn"
         ]
       },
       "locked": false,
