@@ -16,20 +16,37 @@
       "config": {
         "selectedTechs": [
           "py",
-          "js",
-          "html",
-          "css",
           "bash",
           "c",
           "cpp",
           "postgres",
           "fastapi",
           "django",
-          "sqlite"
+          "sqlite",
+          "vercel",
+          "linux",
+          "aws",
+          "notion",
+          "mysql"
         ],
         "accentColor": "#00ff88",
         "secondaryColor": "#55ffff",
-        "showTitle": false
+        "showTitle": false,
+        "technologies": [
+          "py",
+          "bash",
+          "c",
+          "cpp",
+          "postgres",
+          "fastapi",
+          "django",
+          "sqlite",
+          "vercel",
+          "linux",
+          "aws",
+          "notion",
+          "mysql"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -49,13 +66,15 @@
       },
       "config": {
         "platforms": [
-          "github",
           "linkedin",
-          "x",
-          "discord",
-          "youtube",
+          "gmail",
           "portfolio"
-        ]
+        ],
+        "renderMode": "multi",
+        "label_linkedin": "@melisa.ercg",
+        "label_portfolio": "melercg.github.io",
+        "label_gmail": "erocagimelisa@gmail.com",
+        "accentColor": "#ff00ff"
       },
       "locked": false,
       "visible": true,
