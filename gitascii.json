@@ -62,7 +62,11 @@
           "notion"
         ],
         "borderColor": "transparent",
-        "showTitle": false
+        "showTitle": false,
+        "perLine": 16,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationEasing": "ease"
       },
       "locked": false,
       "visible": true,
